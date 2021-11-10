@@ -70,4 +70,9 @@
     top: 15px;
     right: 15px;
   }
+
+  .scroll-top {
+    bottom: 10px;
+    right: 15px;
+  }
 }
