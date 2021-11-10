@@ -1,0 +1,73 @@
+/**
+ * /* break points max-width: 768px
+ *
+ * @format
+ */
+
+@media only screen and (max-width: 768px) {
+  html {
+    font-size: 56.25%;
+  }
+
+  body {
+    overflow-x: hidden;
+  }
+
+  h1 {
+    font-size: 3.5rem;
+    padding: 7rem 2rem 3rem;
+  }
+
+  h2 {
+    width: 80%;
+    font-size: 2rem;
+    padding: 1.5rem 3rem;
+  }
+
+  .container {
+    width: 100%;
+
+    padding: 5rem 0 2rem;
+    display: flex;
+
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .container_color {
+    width: 100%;
+    margin: 0;
+  }
+
+  .container_colors {
+    width: 90%;
+    justify-content: space-between;
+    margin: 3rem 2rem;
+  }
+
+  .name {
+    font-size: 2.1rem;
+  }
+
+  .color {
+    width: 60%;
+  }
+
+  /* estilos modal */
+  .modal__p {
+    padding: 4rem 2rem;
+    font-size: 2.6rem;
+  }
+
+  .hidden {
+    display: none;
+  }
+
+  .modal {
+    max-width: 90vw;
+    min-height: 15vh;
+    top: 15px;
+    right: 15px;
+  }
+}
