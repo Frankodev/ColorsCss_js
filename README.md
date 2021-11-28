@@ -12,5 +12,5 @@ YouTube > https://www.youtube.com/channel/UCjOV6CJ6Srna1jnbnKHuNNg
 
 Facebook > https://www.facebook.com/cisneros.fco/  
 
-Landing page > https://webcreativa.mx/
+Diseño y desarrollo > https://webcreativa.mx/
 
